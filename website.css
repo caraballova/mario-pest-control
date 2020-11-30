@@ -89,9 +89,14 @@ a:hover {
     color: red;
     background-color: transparent;
     text-decoration: underline;
-  }
-  a:active {
+}
+
+a:active {
     color: yellow;
     background-color: transparent;
     text-decoration: underline;
-  }
+}
+
+h3 {
+    color: black;
+}
