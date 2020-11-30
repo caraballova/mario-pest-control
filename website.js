@@ -19,4 +19,3 @@ document.querySelector(".cheep2").addEventListener("keyup", function(){
     document.querySelector(".totalprice").innerHTML = goombaTotal + bobTotal + cheepTotal;
 });
 
-
